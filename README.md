@@ -1,7 +1,7 @@
 ### Hi there, I'm Yuri Faria 👋
 
 ## I'm a Brazilian, 16 Years Old and Self-Taught
-- 🔭 I’m started code was 12/11 years old
+- 🔭 I started code was 12/11 years old
 - 🌱 I’m looking for an internship in a big company
 - 👯 I’m wanting to create new projects
 - 🥅 2020 Goals: Learn more about Machine Learning
