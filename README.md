@@ -1,10 +1,14 @@
 ### Hi there, I'm Yuri Faria 👋
 
 ## I'm a Brazilian, 17 Years Old and Self-Taught
-- 🔭 I started code was 12/11 years old
-- 🌱 I’m looking for an internship in a big company
-- 👯 I’m wanting to create new projects
-- 🥅 2020 Goals: Learn more about Machine Learning
+- 🌱 I'm looking for an internship in a big company
+- 👯 I'm wanting to create new projects and write new content
+- 🥅 2021 Goals: Learn more about Machine Learning / Software Development and Create new Projects
+
+### Most Important Projects
+<a href="https://play.google.com/store/apps/details?id=com.federalagenda">Federal Agenda</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.cspuzzles">Exatas Puzzles - Math, Physics and Chemistry Games</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.heatmaphabittracker">Habits Tracker - Heatmap Goals Tracker</a>
 
 ### Connect with me:
 
